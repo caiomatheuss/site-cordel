@@ -28,7 +28,7 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte02);
-    font-size: 7vw;
+    font-size: 4.5vw;
 }
 header > p {
     padding-bottom: 30px;
@@ -68,7 +68,8 @@ section {
 
 .imagem > p {
     background-color: rgba(0, 0, 0, 0.349);
-    width: 400px;
+    display: inline-block
+    ;
 }
 
 .normal {
